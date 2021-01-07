@@ -3,10 +3,13 @@
 I'm a software design student at Queen's University, '23
 
 Current projects:
+* An algorithm to find the optimal card dropping strategies for cribbage
 * Improving the UI and documentation for a minesweeper solver
-* A cacualtor to find the optimal cribbage strategy
-* A personal website
-* Optimizing code and improving documenttion for an improved space invaders game
+* A personal website (https://reid-moffat.github.io/)
+* Optimizing code and improving documentation for an improved space invaders game
+* An easy to use yahtzee game
+
+Any suggestions for any public repo is appreciated!
 
 You can contact me at reid.moffat9@gmail.com
 
