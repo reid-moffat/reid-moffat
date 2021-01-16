@@ -6,10 +6,7 @@ Current projects:
 * An algorithm to find the optimal card dropping strategies for cribbage
 * Improving the UI and documentation for a minesweeper solver
 * A personal website (https://reid-moffat.github.io/)
-* Optimizing code and improving documentation for an improved space invaders game
-* An easy to use yahtzee game
-
-Any suggestions for any public repo is appreciated!
+* Optimizing code and improving documentation for previous processing projects
 
 You can contact me at reid.moffat9@gmail.com
 
