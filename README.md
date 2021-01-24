@@ -6,7 +6,7 @@ Current projects:
 * An algorithm to find the optimal card dropping strategies for cribbage
 * Improving the UI and documentation for a minesweeper solver
 * A personal website (https://reid-moffat.github.io/)
-* Optimizing code and improving documentation for previous processing projects
+* Overhauling a couple previous processing projects
 
 You can contact me at reid.moffat9@gmail.com
 
