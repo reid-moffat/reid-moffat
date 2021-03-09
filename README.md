@@ -8,6 +8,16 @@ Current projects:
 * A personal website (https://reid-moffat.github.io/)
 * Overhauling a couple previous processing projects
 
+My skills:
+⭐⭐⭐ Java
+⭐⭐⭐ Python
+⭐⭐ LaTeX
+⭐⭐ Processing
+⭐ MATLAB
+⭐ C
+⭐ Html
+⭐ CSS
+
 You can contact me at reid.moffat9@gmail.com
 
 <!--
