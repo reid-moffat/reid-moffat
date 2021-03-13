@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm a software design student at Queen's University, '23
 
@@ -11,12 +11,12 @@ Current projects:
 My skills: <br>
 ⭐⭐⭐ Java <br>
 ⭐⭐⭐ Python <br>
-⭐⭐ LaTeX <br>
 ⭐⭐ Processing <br>
-⭐ MATLAB <br>
+⭐⭐ LaTeX <br>
 ⭐ C <br>
 ⭐ Html <br>
-⭐ CSS
+⭐ CSS <br>
+⭐ MATLAB
 
 You can contact me at reid.moffat9@gmail.com
 
