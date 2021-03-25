@@ -3,22 +3,20 @@
 I'm a second year software design student at Queen's University
 
 Current projects:
-* A personal website (https://reid-moffat.github.io/)
 * An algorithm to find the optimal card dropping strategies for cribbage
+* A personal website (https://reid-moffat.github.io/)
 * Improving the UI and documentation for a minesweeper solver
 * Overhauling a couple previous processing projects
 
-My languages: <br>
-⭐⭐⭐ Java <br>
-⭐⭐⭐ Python <br>
-⭐⭐ Processing <br>
-⭐ C <br>
-⭐ Html <br>
-⭐ CSS
-
-Other skills: <br>
-⭐⭐ LaTeX <br>
-⭐ MATLAB
+My languages and skills: <br>
+* Java <br>
+* Python <br>
+* C <br>
+* LaTeX
+* MATLAB
+* Html <br>
+* CSS
+* Processing
 
 You can contact me at reid.moffat9@gmail.com
 
