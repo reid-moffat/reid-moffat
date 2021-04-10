@@ -8,15 +8,11 @@ Current projects:
 * Improving the UI and documentation for a minesweeper solver
 * Overhauling a couple previous processing projects
 
-My languages and skills: <br>
-* Java <br>
-* Python <br>
-* C <br>
+My main languages and skills: <br>
+* Java
+* Python
 * LaTeX
 * MATLAB
-* Html <br>
-* CSS
-* Processing
 
 You can contact me at reid.moffat9@gmail.com
 
