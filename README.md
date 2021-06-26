@@ -4,11 +4,12 @@ I'm a second year software design student at Queen's University (Canada)
 
 Current projects:
 * A collaborative list app
+* A course distribution website
 * A personal website (https://reid-moffat.github.io/)
 * An algorithm to find the optimal card dropping strategies for cribbage
 * Overhauling a couple previous processing projects
 
-My main languages are Java and Python and I have been working on learning other skills
+I have the most experience with Java and Python, and am working on learning other skills and languages
 
 You can contact me at reid.moffat9@gmail.com
 
