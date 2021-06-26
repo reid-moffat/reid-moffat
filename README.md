@@ -12,7 +12,7 @@ My main languages are Java and Python and I have been working on learning other 
 
 You can contact me at reid.moffat9@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reid-moffat)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-moffat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-moffat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **reid-moffat/reid-moffat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
