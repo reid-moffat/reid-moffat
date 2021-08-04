@@ -1,10 +1,10 @@
 ### Hello 👋
 
-I'm a second year software design student at Queen's University (Canada)
+I'm a third year software design student at Queen's University (Canada)
 
 Current projects:
 * A collaborative list app
-* A course distribution website
+* A course distribution website (https://qubirdhunter.com/)
 * A personal website (https://reid-moffat.github.io/)
 * An algorithm to find the optimal card dropping strategies for cribbage
 * Overhauling a couple previous processing projects
