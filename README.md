@@ -2,14 +2,14 @@
 
 I'm a third year software design student at Queen's University (Canada)
 
-Current projects:
-* A collaborative list app
+What I've been working on:
 * A course distribution website (https://qubirdhunter.com/)
+* A point-maximizing cribbage algorithm
+* A collaborative list app (hopefully releasing this fall)
 * A personal website (https://reid-moffat.github.io/)
-* An algorithm to find the optimal card dropping strategies for cribbage
-* Overhauling a couple previous processing projects
+* Overhauling a couple previous Processing projects
 
-I have the most experience with Java and Python, and am working on learning other skills and languages
+I enjoy using Python and Java for development the most, but have been broadening my scope to learn more languages like JS, React Native, C and C++
 
 You can contact me at reid.moffat9@gmail.com
 
