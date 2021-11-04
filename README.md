@@ -13,7 +13,7 @@ What I've been working on:
 * A [personal website](https://reid-moffat.github.io/)
 * Overhauling a couple previous [Processing](https://processing.org/) projects
 
-I'm primarily a back-end focused developer with experience with Python and Java, as well as an interest in Bash, C++, Firebase, JavaScript, and React [Native]
+I'm primarily a back-end focused developer with experience with Python and Java, as well as an interest in Bash, C++, Firebase, JavaScript, and React
 
 You can contact me at reid.moffat9@gmail.com
 
