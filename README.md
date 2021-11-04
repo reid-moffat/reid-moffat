@@ -6,9 +6,9 @@ What I've been working on:
 
 * A trip-planning app
 * A new and improved version of battleship
-* [Optimizing my efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
 * A [course distribution website](https://qubirdhunter.com/)
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
+* [Optimizing my efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
 * A collaborative list app (hopefully releasing this fall)
 * A [personal website](https://reid-moffat.github.io/)
 * Overhauling a couple previous [Processing](https://processing.org/) projects
