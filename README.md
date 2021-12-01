@@ -17,7 +17,13 @@ I'm primarily a back-end focused developer with experience with Python and Java,
 
 You can contact me at reid.moffat9@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reid-moffat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-moffat&layout=compact&card_width=250&langs_count=6&theme=midnight-purple">
+ 
+</p>
 
 <!--
 **reid-moffat/reid-moffat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
