@@ -1,14 +1,17 @@
 ### Hello 👋
 
-I'm a third year software design student at Queen's University (Ontario, Canada). I enjoy making clean, consice and efficient back-end focused applicaitons, mainly focusing on:
-1. Software Quality Assurance
-2. Java
-3. C++
-4. Python
+I'm a third year software design student at Queen's University (Ontario, Canada). I enjoy making clean, consice and efficient back-end focused applicaitons, mainly focusing on/working with:
+* Software Quality Assurance
+* Java
+* C++
+* Python
 
-I've also been expanding my knowledge to different areas, including:
+I'm currently learning:
 * Bash
-* Firebase (with React [Native])
+* Firebase (integrated in React Native)
+* React
+
+I have also done some work with MATLAB, Processing, Haskell and Prolog
 
 You can contact me at reid.moffat9@gmail.com
 
