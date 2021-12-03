@@ -18,11 +18,8 @@ I'm primarily a back-end focused developer with experience with Python and Java,
 You can contact me at reid.moffat9@gmail.com
 
 <p align="center">
- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-moffat&layout=compact&card_width=250&langs_count=6&theme=midnight-purple">
- 
+<img align="center" src="https://github-readme-stats-mu-blond.vercel.app/api/top-langs/?username=reid-moffat&layout=compact&card_width=250&langs_count=10&theme=midnight-purple">
 </p>
 
 <!--
