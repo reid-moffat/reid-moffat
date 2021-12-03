@@ -17,7 +17,7 @@ You can contact me at reid.moffat9@gmail.com
 ### Deployed apps:
 * A [course distribution website](https://qubirdhunter.com/)
 
-Working being optimizing:
+Projects being optimized:
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
 * A new and improved version of battleship (C++ SFML- will be added to GitHub)
 * Overhauling a few previous [Processing](https://processing.org/) projects
