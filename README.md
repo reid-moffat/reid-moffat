@@ -6,7 +6,7 @@ I'm a third year software design student at Queen's University (Ontario, Canada)
 * C++
 * Python
 
-I'm currently learning:
+Additionally, I've been learning some other tools:
 * Bash
 * Firebase (integrated in React Native)
 * React
