@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I'm a third year software design student at Queen's University (Ontario, Canada). I enjoy making clean, consice and efficient back-end focused applicaitons, mainly focusing on:
-1. Software quality assurance
+1. Software Quality Assurance
 2. Java
 3. C++
 4. Python
