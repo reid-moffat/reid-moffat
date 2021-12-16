@@ -11,7 +11,7 @@ You can contact me at reid.moffat9@gmail.com or connect with me on [Linkedin](ht
 
 Projects being optimized:
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
-* A new and improved version of battleship (C++ SFML- will be added to GitHub)
+* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship)
 * Overhauling a few previous [Processing](https://processing.org/) projects
 
 Information dumps:
