@@ -34,5 +34,4 @@ Information dumps:
 
 <p align="center">
     <img align="center" src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
-    <img align="center" src="https://github-readme-stats-mu-blond.vercel.app/api/top-langs/?username=reid-moffat&layout=compact&card_width=250&langs_count=8&theme=midnight-purple">
 </p>
