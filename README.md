@@ -14,7 +14,7 @@ Projects being optimized:
 * A [C++/SFML battleship game](https://github.com/reid-moffat/battleship)
 * Overhauling a few previous [Processing](https://processing.org/) projects
 
-Information dumps:
+Code dumps:
 * [Optimizing my efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
 
 ### In development:
