@@ -19,6 +19,7 @@ Code dumps:
 
 ### In development:
 * A trip-planning app for tourists to find the best local businesses
+* A stock price notifier
 * A [personal website](https://reid-moffat.github.io/)
 * A collaborative list app
 
