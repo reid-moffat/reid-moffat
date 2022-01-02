@@ -6,20 +6,20 @@ You can contact me at reid.moffat9@gmail.com or connect with me on [Linkedin](ht
 
 ## What I've been working on
 
-### Deployed apps:
+### Complete projects:
 * A [course distribution website](https://qubirdhunter.com/)
-
-Projects being optimized:
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
-* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship)
-* Overhauling a few previous [Processing](https://processing.org/) projects
 
 Code dumps:
-* [Optimizing my efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
+* [Optimizing your efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
+
+Projects under optimization:
+* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship)
+* Overhauling a few previous [Processing](https://processing.org/) games
 
 ### In development:
 * A trip-planning app for tourists to find the best local businesses
-* A stock price notifier
+* A stock price notifier that alerts you when a stock hits a certain price
 * A [personal website](https://reid-moffat.github.io/)
 * A collaborative list app
 
