@@ -18,8 +18,9 @@ Projects under optimization:
 * Overhauling a few previous [Processing](https://processing.org/) games
 
 ### In development:
-* A trip-planning app for tourists to find the best local businesses
 * A stock price notifier that alerts you when a stock hits a certain price
+* A trip-planning app for tourists to find the best local businesses
+* An online guest book and document management system for a Cottage
 * A [personal website](https://reid-moffat.github.io/)
 * A collaborative list app
 
