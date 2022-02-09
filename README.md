@@ -1,10 +1,11 @@
 ### Hello 👋
-
 I'm a third year software design student at [Queen's University](https://www.queensu.ca/). I'm a back-end focused developer that enjoys making clean, consice and efficient projects
 
-You can contact me at reid.moffat9@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat/)
+You can contact me at 
 
-## What I've been working on
+.moffat9@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat/)
+
+## 👨‍💻 What I've been working on
 
 ### Complete projects:
 * A [course distribution website](https://qubirdhunter.com/)
@@ -23,7 +24,7 @@ Projects under optimization:
 * An online Cottage guest book and document management system
 * A collaborative list app
 
-## My skills
+## 📚 My skills
 
 ### Top languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -33,6 +34,15 @@ Projects under optimization:
 
 ### IDE stack: ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🔥 Github Stats
+
 <p align="center">
-    <img align="center" src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
+    <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 </p>
+
+<div class="image123">
+    <img src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reid-moffat&count_private=true&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&theme=highcontrast">
+</div>
+
+
