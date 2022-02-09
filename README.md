@@ -20,8 +20,7 @@ Projects under optimization:
 ### In development:
 * A stock price notifier that alerts you when a stock hits a certain price
 * A trip-planning app for tourists to find the best local businesses
-* An online guest book and document management system for a Cottage
-* A [personal website](https://reid-moffat.github.io/)
+* An online Cottage guest book and document management system
 * A collaborative list app
 
 ## My skills
