@@ -34,9 +34,9 @@ Projects under optimization:
 
 ## 🔥 Github Stats
 
-<p align="center">
+<!-- <p align="center">
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
-</p>
+</p> -->
 
 <div text-align="center">
     <img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
