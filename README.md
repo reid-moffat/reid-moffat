@@ -1,9 +1,7 @@
 ### Hello 👋
 I'm a third year software design student at [Queen's University](https://www.queensu.ca/). I'm a back-end focused developer that enjoys making clean, consice and efficient projects
 
-You can contact me at 
-
-.moffat9@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat/)
+You can contact me at reid.moffat9@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat/)
 
 ## 👨‍💻 What I've been working on
 
