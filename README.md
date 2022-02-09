@@ -38,9 +38,7 @@ Projects under optimization:
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 </p>
 
-<div class="image123">
-    <img src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reid-moffat&count_private=true&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&theme=highcontrast">
+<div text-align="center">
+    <img style="display: inline-block; margin-left: auto; margin-right: auto" src="https://github-readme-stats-mu-blond.vercel.app/api?username=reid-moffat&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple">
+    <img style="display: inline-block; margin-left: auto; margin-right: auto" src="https://github-readme-streak-stats.herokuapp.com/?user=reid-moffat&count_private=true&theme=black-ice&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&theme=highcontrast">
 </div>
-
-
