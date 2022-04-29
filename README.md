@@ -1,26 +1,26 @@
 ### Hello 👋
-I'm a third year software design student at [Queen's University](https://www.queensu.ca/). I'm a back-end focused developer that enjoys making clean, consice and efficient projects
+I'm a software design student at [Queen's University](https://www.queensu.ca/) and Software Developer Intern at [Ericsson Canada](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada). I'm a back-end focused developer that enjoys making clean, consice and efficient projects
 
 You can contact me at reid.moffat9@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat/)
 
 ## 👨‍💻 What I've been working on
+*T = Team project (I worked on back-end only)*
 
 ### Complete projects:
-* A [course distribution website](https://qubirdhunter.com/)
-* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship)
+* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship) *(T)*
+* A [course distribution website](https://qubirdhunter.com/) *(T)*
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
 
 Code dumps:
-* [Optimizing your efficiency with bash](https://github.com/reid-moffat/bash-shortcuts)
+* A list of practical [Bash shortcuts](https://github.com/reid-moffat/bash-shortcuts)
 
 Projects under optimization:
 * Overhauling a few previous [Processing](https://processing.org/) games
  
 ### In development:
-* A stock price notifier that alerts you when a stock hits a certain price
-* A trip-planning app for tourists to find the best local businesses
-* An online Cottage guest book and document management system
-* A collaborative list app
+* A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) *(T)* *(Not functional yet)*
+* A trip-planning app for tourists to find the best local businesses *(T)*
+* An online Cottage guest book and management system
 
 ## 📚 My skills
 
