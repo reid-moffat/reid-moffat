@@ -10,7 +10,7 @@ Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boati
 * A [C++/SFML battleship game](https://github.com/reid-moffat/battleship) ✔️🤝
 * A [course distribution website](https://qubirdhunter.com/) ✔️🤝
 * A list of practical [Bash shortcuts](https://github.com/reid-moffat/bash-shortcuts)
-* A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy)
+* A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy) ✔️
 
 Private/initial development:
 * An improved version of the traditional Space Invaders game
