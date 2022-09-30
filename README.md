@@ -2,7 +2,7 @@
 
 I'm a Software Design student at [Queen's University](https://www.queensu.ca/), a Software Developer Intern at [Ericsson Canada](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada) and a back-end focused developer that enjoys making clean, consice and efficient code.
 
-Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boating) and learning history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat or or if you'd like to collaborate on a project
+Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boating) and learning uncommon history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat or or if you'd like to collaborate on a project
 
 ## 👨‍💻 What I've been working on
 *🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Complete*
