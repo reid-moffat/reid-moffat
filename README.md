@@ -2,22 +2,22 @@
 
 I'm a Software Design student at [Queen's University](https://www.queensu.ca/), a Software Developer Intern at [Ericsson Canada](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada) and a back-end focused developer that enjoys making clean, consice and efficient code.
 
-Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boating) and learning uncommon history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat about anything or or if you'd like to collaborate on a project!
+Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boating) and history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat about anything or or if you'd like to collaborate on a project!
 
 ## 👨‍💻 What I've been working on
 *🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Complete*
 
 * A [C++/SFML battleship game](https://github.com/reid-moffat/battleship) ✔️🤝
 * A [course distribution website](https://qubirdhunter.com/) ✔️🤝
-* A list of practical [Bash shortcuts](https://github.com/reid-moffat/bash-shortcuts)
+* A [list of practical Bash shortcuts](https://github.com/reid-moffat/bash-shortcuts)
 * A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy) ✔️
 
 Private/initial development:
 * An improved version of the traditional Space Invaders game
-* A collection of simple explanations for data structures and algorithms
 * A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
 * A trip-planning app for tourists to find the best local businesses 🤝
 * An online Cottage guest book and management system
+* A collection of simple explanations for data structures and algorithms
 
 ## 📚 My skills
 
