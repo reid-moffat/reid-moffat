@@ -17,6 +17,7 @@ Private/initial development:
 * A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
 * A simplified job application organizer 🤝
 * An online Cottage guest book and management system
+* A [list of data strucutres I've come across](https://github.com/reid-moffat/data-structures)
 
 ## 📚 My skills
 
