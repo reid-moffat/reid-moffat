@@ -15,9 +15,8 @@ Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boati
 Private/initial development:
 * An improved version of the traditional Space Invaders game
 * A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
-* A trip-planning app for tourists to find the best local businesses 🤝
+* A simplified job application organizer 🤝
 * An online Cottage guest book and management system
-* A collection of simple explanations for data structures and algorithms
 
 ## 📚 My skills
 
