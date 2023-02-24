@@ -37,6 +37,4 @@ Private/initial development:
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 </p> -->
 
-<p align="center">
-    <img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/overview.svg">
-</p>
+<img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/overview.svg">
