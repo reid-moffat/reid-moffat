@@ -33,13 +33,10 @@ Private/initial development:
 
 **IDEs:** JetBrains (CLion, IntelliJ, WebStorm, Pycharm), Visual studio [code]
 
-## Github Stats
-
 <!-- <p align="center">
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 </p> -->
 
-<div text-align="center">
+<p align="center">
     <img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/overview.svg">
-    <img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/languages.svg">
-</div>
+</p>
