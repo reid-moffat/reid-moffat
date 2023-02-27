@@ -7,10 +7,14 @@ Outside of CS, I enojoy cooking, various sports (skiing, kayaking, biking, boati
 ## My projects
 *🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Complete*
 
-* A [C++/SFML battleship game](https://github.com/reid-moffat/battleship) ✔️🤝
-* A [course distribution website](https://qubirdhunter.com/) ✔️🤝
-* A [list of practical Bash shortcuts](https://github.com/reid-moffat/bash-shortcuts)
-* A [point-maximizing cribbage algorithm](https://github.com/reid-moffat/cribbage-strategy) ✔️
+<div align="left">
+    <ul>
+        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> ✔️🤝</li>
+        <li>A <a href="https://qubirdhunter.com/">course distribution website</a> ✔️🤝</li>
+        <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
+        <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a> ✔️</li>
+    </ul>
+</div>
 
 Private/initial development:
 * An improved version of the traditional Space Invaders game
@@ -29,7 +33,7 @@ Private/initial development:
 
 ### Other/minor skills:
 
-**Tools/frameworks:** Apache Maven, LaTeX, Firebase, React [Native]
+**Tools/frameworks:** Apache Maven, LaTeX, React [Native]
 
 **IDEs:** JetBrains (CLion, IntelliJ, WebStorm, Pycharm), Visual studio [code]
 
