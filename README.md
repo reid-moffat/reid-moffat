@@ -33,7 +33,7 @@ Private/initial development:
 
 ### Other/minor skills:
 
-**Tools/frameworks:** Apache Maven, LaTeX, React [Native]
+**Tools/frameworks:** Apache Maven, LaTeX, React
 
 **IDEs:** JetBrains (CLion, IntelliJ, WebStorm, Pycharm), Visual studio [code]
 
