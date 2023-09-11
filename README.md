@@ -5,12 +5,14 @@ I'm a Software Design student at [Queen's University](https://www.queensu.ca/) a
 Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boating) and history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat about anything or if you'd like to collaborate on a project!
 
 ## My projects
-*🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Complete*
+*🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Fully complete*
 
 <div align="left">
     <ul>
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> ✔️🤝</li>
         <li>A <a href="https://qubirdhunter.com/">course distribution website</a> ✔️🤝</li>
+        <li>A <a href="https://www.qtma.ca/">app development club website</a> ✔️🤝</li>
+        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> ✔️🤝</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
         <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a> ✔️</li>
     </ul>
@@ -19,9 +21,7 @@ Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boatin
 Private/initial development:
 * An improved version of the traditional Space Invaders game
 * A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
-* A simplified job application organizer 🤝
 * An online Cottage guest book and management system
-* A [list of data strucutres I've come across](https://github.com/reid-moffat/data-structures)
 
 ## My skills
 
