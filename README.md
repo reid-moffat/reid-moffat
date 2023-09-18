@@ -18,10 +18,12 @@ Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boatin
     </ul>
 </div>
 
+<!--
 Private/initial development:
 * An improved version of the traditional Space Invaders game
 * A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
 * An online Cottage guest book and management system
+-->
 
 ## My skills
 
@@ -31,11 +33,13 @@ Private/initial development:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+<!--
 ### Other/minor skills:
 
 **Tools/frameworks:** Apache Maven, LaTeX, React
 
 **IDEs:** JetBrains (CLion, IntelliJ, WebStorm, Pycharm), Visual studio [code]
+-->
 
 <!-- <p align="center">
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
