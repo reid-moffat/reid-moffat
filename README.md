@@ -12,7 +12,7 @@ Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boatin
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> ✔️🤝</li>
         <li>A <a href="https://qubirdhunter.com/">course distribution website</a> ✔️🤝</li>
         <li>A <a href="https://www.qtma.ca/">app development club website</a> ✔️🤝</li>
-        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> ✔️🤝</li>
+        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) ✔️🤝</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
         <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a> ✔️</li>
     </ul>
