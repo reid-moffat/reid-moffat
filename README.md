@@ -9,6 +9,7 @@ Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boatin
 
 <div align="left">
     <ul>
+        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>) 🤝</li>
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> ✔️🤝</li>
         <li>A <a href="https://qubirdhunter.com/">course distribution website</a> ✔️🤝</li>
         <li>A <a href="https://www.qtma.ca/">app development club website</a> ✔️🤝</li>
@@ -17,13 +18,6 @@ Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boatin
         <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a> ✔️</li>
     </ul>
 </div>
-
-<!--
-Private/initial development:
-* An improved version of the traditional Space Invaders game
-* A free [stock price notifier](https://reid-moffat.github.io/stock-alert/) 🤝 *(Not functional yet)*
-* An online Cottage guest book and management system
--->
 
 ## My skills
 
