@@ -27,16 +27,8 @@ Helpers: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-bad
 
 Tools: ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<!--
-### Other/minor skills:
-
-**Tools/frameworks:** Apache Maven, LaTeX, React
-
-**IDEs:** JetBrains (CLion, IntelliJ, WebStorm, Pycharm), Visual studio [code]
--->
+<img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/overview.svg">
 
 <!-- <p align="center">
     <img align="centre" src="https://github-profile-trophy.vercel.app/?username=reid-moffat&theme=chalk&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
 </p> -->
-
-<img style="display: inline-block; margin-left: auto; margin-right: auto; width: 49%" src="https://github.com/reid-moffat/fancy-github-stats/blob/master/generated/overview.svg">
