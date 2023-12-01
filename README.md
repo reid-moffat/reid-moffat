@@ -1,8 +1,6 @@
 ### Hi 👋
 
-I'm a Software Design student at [Queen's University](https://www.queensu.ca/) and a back-end-focused developer who enjoys making clean, concise and clear code.
-
-Outside of CS, I enjoy cooking, various sports (skiing, kayaking, biking, boating) and history. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) to chat about anything or if you'd like to collaborate on a project!
+I'm a Software Design student at [Queen's University](https://www.queensu.ca/) and a back-end-focused developer who enjoys making clean, concise and clear code. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) for project collaboration!
 
 ## My projects
 *🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Fully complete*
