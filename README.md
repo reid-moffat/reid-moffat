@@ -3,17 +3,18 @@
 I'm a Software Design student at [Queen's University](https://www.queensu.ca/) and a back-end-focused developer who enjoys making clean, concise and clear code. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) for project collaboration!
 
 ## My projects
-*🤝 = Team project (i.e I worked on mainly back-end) ✔️ = Fully complete*
+*🤝 = Team project (i.e I worked on mainly back-end)*
 
 <div align="left">
     <ul>
-        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>) 🤝</li>
-        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> ✔️🤝</li>
-        <li>A <a href="https://qubirdhunter.com/">course distribution website</a> ✔️🤝</li>
-        <li>A <a href="https://www.qtma.ca/">app development club website</a> ✔️🤝</li>
-        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) ✔️🤝</li>
+        <li>A <a href="https://github.com/oompas/open-lms">open-source course tracking & verification LMS</a> 🤝</li>
+        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
+        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
+        <li>A <a href="https://qubirdhunter.com/">course distribution website</a> 🤝</li>
+        <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
+        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
-        <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a> ✔️</li>
+        <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a></li>
     </ul>
 </div>
 
