@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Software Design student at [Queen's University](https://www.queensu.ca/) and a back-end-focused developer who enjoys making clean, concise and clear code. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) for project collaboration!
+I'm a Software Developer focusing on API development with clean, concise and clear code. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) for project collaboration!
 
 ## My projects
 *🤝 = Team project*
