@@ -8,9 +8,10 @@ I'm a Software Developer focusing on API development with clean, concise and cle
 <div>
     <ul>
         <li>A <a href="https://github.com/oompas/open-lms">open-source course tracking & verification LMS</a> 🤝</li>
+        <li>A <a href="https://www.npmjs.com/package/generate-arrays">NPM utility package for simple and flexible array generation</a></li>
         <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
-        <li>A <a href="https://qubirdhunter.com/">course distribution website</a> 🤝</li>
+        <li>A <a href="https://qubirdhunter.com/">course mark distribution website</a> 🤝</li>
         <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
         <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
