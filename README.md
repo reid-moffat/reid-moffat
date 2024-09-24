@@ -8,7 +8,7 @@ I'm a Software Developer focusing on API development with clean, concise and cle
 <div>
     <ul>
         <li>A <a href="https://github.com/oompas/open-lms">open-source course tracking & verification LMS</a> 🤝</li>
-        <li>A <a href="https://www.npmjs.com/package/generate-arrays">NPM utility package for simple and flexible array generation</a></li>
+        <li>npm packages for <a href="https://www.npmjs.com/package/generate-arrays">simpe & flexible array generation</a>, <a href="https://www.npmjs.com/package/suite-metrics">test suite metrics</a>, <a href="https://www.npmjs.com/package/npm-package-factory">package boilerplate generation</a> and a <a href="https://www.npmjs.com/package/bias-random">biased RNG</a></li>
         <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
         <li>A <a href="https://qubirdhunter.com/">course mark distribution website</a> 🤝</li>
