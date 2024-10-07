@@ -15,7 +15,6 @@ I'm a Software Developer focusing on API development with clean, concise and cle
         <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
         <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
-        <li>A <a href="https://github.com/reid-moffat/cribbage-strategy">point-maximizing cribbage algorithm</a></li>
     </ul>
 </div>
 
