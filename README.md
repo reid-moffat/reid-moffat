@@ -42,6 +42,7 @@ I'm a Software Developer focusing on API development with clean, concise and cle
 
 <div style="">
     Backend:
+    <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
