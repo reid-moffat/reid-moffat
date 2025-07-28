@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Software Developer focusing on API development with clean, concise and clear code. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/reid-moffat) for project collaboration!
+I'm a Software Developer focusing on API development with clean, concise and clear code
 
 ## My projects
 *🤝 = Team project*
