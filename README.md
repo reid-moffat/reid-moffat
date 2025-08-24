@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Software Developer focusing on API development with clean, concise and clear code
+I'm a Software Developer focusing on API development with clean, concise, and clear code
 
 ## My projects
 *🤝 = Team project*
@@ -8,12 +8,12 @@ I'm a Software Developer focusing on API development with clean, concise and cle
 <div>
     <ul>
         <li>A <a href="https://www.open-lms.ca/">open-source course tracking & verification LMS</a> (<a href="https://github.com/oompas/open-lms">code</a>)🤝</li>
-        <li>npm packages for <a href="https://www.npmjs.com/package/generate-arrays">simpe & flexible array generation</a>, <a href="https://www.npmjs.com/package/suite-metrics">test suite metrics</a>, <a href="https://www.npmjs.com/package/npm-package-factory">package boilerplate generation</a> and a <a href="https://www.npmjs.com/package/bias-random">biased RNG</a></li>
-        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
-        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
-        <li>A <a href="https://qubirdhunter.com/">course mark distribution website</a> 🤝</li>
+        <li>NPM packages for <a href="https://www.npmjs.com/package/suite-metrics">comprehensive suite metrics</a>, <a href="https://www.npmjs.com/package/test-inputs">test input generation</a>, and <a href="https://www.npmjs.com/~reidmoffat">more</a>
         <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
+        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
         <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
+        <li>A <a href="https://qubirdhunter.com/">course mark distribution website</a> 🤝</li>
+        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
         <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
     </ul>
 </div>
