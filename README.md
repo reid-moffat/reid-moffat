@@ -7,8 +7,9 @@ I'm a Software Developer focusing on API development with clean, concise, and cl
 
 <div>
     <ul>
-        <li>A <a href="https://www.open-lms.ca/">open-source course tracking & verification LMS</a> (<a href="https://github.com/oompas/open-lms">code</a>)🤝</li>
+        <li>An <a href="https://zerocrat.com/">encrypted accounting software</a> 🤝</li>
         <li>NPM packages for <a href="https://www.npmjs.com/package/suite-metrics">comprehensive suite metrics</a>, <a href="https://www.npmjs.com/package/test-inputs">test input generation</a>, and <a href="https://www.npmjs.com/~reidmoffat">more</a>
+        <li>A <a href="https://www.open-lms.ca/">open-source course tracking & verification LMS</a> (<a href="https://github.com/oompas/open-lms">code</a>)🤝</li>
         <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
         <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
         <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
