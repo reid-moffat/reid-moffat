@@ -1,22 +1,24 @@
 ### Hi 👋
 
-I'm a Software Developer focusing on API development with clean, concise, and clear code
+I'm a Software Engineer focusing on Backend development with clean and robust code
 
 ## My projects
-*🤝 = Team project*
 
-<div>
-    <ul>
-        <li>NPM packages for <a href="https://www.npmjs.com/package/suite-metrics">comprehensive suite metrics</a>, <a href="https://www.npmjs.com/package/test-inputs">test input generation</a>, and <a href="https://www.npmjs.com/~reidmoffat">more</a>
-        <li>A <a href="https://www.open-lms.ca/">open-source course tracking & verification LMS</a> (<a href="https://github.com/oompas/open-lms">code</a>)🤝</li>
-        <li>A <a href="https://www.qtma.ca/">app development club website</a> 🤝</li>
-        <li>A <a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a> 🤝</li>
-        <li>A <a href="https://venatoapp.ca/">simplified job application organizer</a> (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>) 🤝</li>
-        <li>A <a href="https://qubirdhunter.com/">course mark distribution website</a> 🤝</li>
-        <li>A <a href="https://reid-moffat.github.io/stock-alert/">Stock price alert site</a> (<a href="https://github.com/reid-moffat/stock-alert">code</a>)</li>
-        <li>A <a href="https://github.com/reid-moffat/bash-shortcuts">list of practical Bash shortcuts</a></li>
-    </ul>
-</div>
+<a href="https://www.npmjs.com/~reidmoffat">NPM packages</a>: Build & deployed packages for <a href="https://www.npmjs.com/package/suite-metrics">comprehensive suite metrics</a>, <a href="https://www.npmjs.com/package/test-inputs">test input generation</a>, and more
+
+<a href="https://www.open-lms.ca/">OpenLMS:</a> Open-source course tracking & verification learning management system (<a href="https://github.com/oompas/open-lms">code</a>)
+
+<a href="https://www.qtma.ca/">QTMA</a>: Queen's app development club website
+
+<a href="https://github.com/reid-moffat/battleship">C++/SFML battleship game</a>
+
+<a href="https://venatoapp.ca/">Venato:</a> Simplified job application organizer (<a href="https://github.com/Olivia-Chen-Xu/Venato">code</a>)
+
+<a href="https://qubirdhunter.com/">QUBirdhunter</a>: Queen's course mark distribution website
+
+<a href="https://reid-moffat.github.io/stock-alert/">Stock Alert</a>: Stock price alert site (<a href="https://github.com/reid-moffat/stock-alert">code</a>)
+
+<a href="https://github.com/reid-moffat/bash-shortcuts">Bash Shortcuts</a>: A list of practical Bash shortcuts
 
 ## My skills
 
